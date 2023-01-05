@@ -3,10 +3,6 @@ body {margin: 0px;}
 html {scroll-behavior: smooth;}
 </style>
 
-<script>
-alert("welcome to izone!");
-</script>
-
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1" >
 <title style="color:#80FFFF">IZONE</title>
@@ -15,6 +11,9 @@ alert("welcome to izone!");
 <div style="height:100px;background-color:#f9c81e">
 <br>
 <h1 style="font-family:DFKai-sb "><a id="first"><td align="center" valign="center"><center>IZONE</td></a></h1><center>
+<script>
+alert("welcome to izone!");
+</script>
 	
 
 <br>
